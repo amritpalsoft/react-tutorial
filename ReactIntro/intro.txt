@@ -1,0 +1,20 @@
+React is js library
+
+Benefits :
+
+i. Fast: bcz in genral html, css,js code, everytime a small change in code happens
+   it will create the DOM again, so loading time will be more
+   But in react,when a small change in code happens, then its algo called as Diffing
+   Algo will identify the change, and send it to to Virtual DOM which make the 
+   changes and creates a new DOM. 
+
+ii. Easy Event Handling
+
+iii. It manages UI by 'states'
+
+
+Components : they are isolated, independent, reusable piece of code
+
+Two types: 
+i. Functional Components
+ii. Class Component
